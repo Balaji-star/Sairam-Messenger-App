@@ -13,7 +13,7 @@ An Exclusive mobile app only for Sairam students for sharing thoughts,ideas,coll
 3.unlimited chats
 
 # Help
-Easy steps to use the app
+Easy steps to use the app</br>
 1.Registeration -> Mention name with department Eg(sairam IT, sairam ECE ,Sairam CSE)</br>
 2.only one time registration</br>
 3.long press to change your profile picture</br>
